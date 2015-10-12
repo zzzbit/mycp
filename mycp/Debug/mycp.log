@@ -1,0 +1,64 @@
+﻿生成启动时间为 2012/4/15 9:03:13。
+项目“C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\mycp\mycp\mycp.vcxproj”在节点 2 上(build 个目标)。
+PrepareForBuild:
+  正在创建目录“C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\mycp\Debug\”。
+InitializeBuildStatus:
+  正在创建“Debug\mycp.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  e:\Visual Stadio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt mycp.cpp
+  mycp.cpp
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(105) : 参见“strcpy”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(105) : 参见“strcpy”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(105) : 参见“strcpy”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(22): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(110) : 参见“strcat”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(55): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(105) : 参见“strcpy”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(56): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(110) : 参见“strcat”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(57): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(110) : 参见“strcat”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(75): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(105) : 参见“strcpy”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(76): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(110) : 参见“strcat”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(86): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(105) : 参见“strcpy”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(87): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(110) : 参见“strcat”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(88): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(110) : 参见“strcat”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(89): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(105) : 参见“strcpy”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(90): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(110) : 参见“strcat”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(91): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(110) : 参见“strcat”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(98): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(105) : 参见“strcpy”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(99): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(110) : 参见“strcat”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(100): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(110) : 参见“strcat”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(102): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(105) : 参见“strcpy”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(103): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(110) : 参见“strcat”的声明
+c:\users\zhangzhizhi\documents\visual studio 2010\projects\mycp\mycp\mycp.cpp(104): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual stadio\vc\include\string.h(110) : 参见“strcat”的声明
+Link:
+  e:\Visual Stadio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\mycp\Debug\mycp.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\mycp.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\mycp\Debug\mycp.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\mycp\Debug\mycp.lib" /MACHINE:X86 Debug\mycp.obj
+  mycp.vcxproj -> C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\mycp\Debug\mycp.exe
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\mycp\Debug\mycp.exe;#1" /manifest Debug\mycp.exe.intermediate.manifest
+FinalizeBuildStatus:
+  正在删除文件“Debug\mycp.unsuccessfulbuild”。
+  正在对“Debug\mycp.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\mycp\mycp\mycp.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.33
